@@ -25,6 +25,8 @@ gem 'bootstrap_form'
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
 
+gem 'rails_db'
+
 gem 'font-awesome-sass'
 
 gem 'devise'
